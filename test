@@ -1,0 +1,4 @@
+---
+  - task:
+    name: Dyn
+    command: '/etc/ansible/freeipa.py --list'
