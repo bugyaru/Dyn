@@ -1,5 +1,0 @@
----
-  - host: all
-  - task:
-    name: Dyn
-    command: /etc/ansible/freeipa.py
